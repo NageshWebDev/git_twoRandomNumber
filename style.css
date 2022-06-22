@@ -1,0 +1,22 @@
+body{
+  background-color: grey;
+}
+
+h1{
+  width: 100%;
+  text-align: center;
+  font-size: 5rem;
+}
+
+p{
+  display: inline-block;
+  width: 20%;
+  margin: 2.5% 40% ;
+  text-align : center;
+  font-size: 7rem;
+  color:black;
+  border: 5px solid white;
+  border-radius: 25px;
+  text-shadow: 1px 1px white;
+  box-shadow: 5px 5px black;
+}
