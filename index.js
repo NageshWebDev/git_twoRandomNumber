@@ -17,4 +17,4 @@ function display(){
     document.querySelector("#p2").textContent = randomNumber2() ;
 }
 
-document.querySelector("button").addEventListner("click", display);
+document.querySelector("button").addEventListener("click", display);
